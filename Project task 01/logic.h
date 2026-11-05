@@ -1,1 +1,1 @@
-#
+void reverse(int* array, int size);
