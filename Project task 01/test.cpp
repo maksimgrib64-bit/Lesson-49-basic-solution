@@ -8,7 +8,6 @@ void test(int* array, int size, int* expected, string name) {
 			flag = false;
 			break;
 		}
-
 	}
 
 	string msg = name + "-->";
