@@ -7,7 +7,4 @@ void reverse(int* array, int size) {
 		array[size - 1 - i] = t;
       
 	}
-
-
-
 }
