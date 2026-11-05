@@ -1,0 +1,1 @@
+bool is_perfect_number(int number);
